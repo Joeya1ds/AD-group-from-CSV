@@ -1,5 +1,5 @@
 ﻿#Created by Joeya1ds 4/23/22
-#taken from a script made over a month ago (likely typos), apologies ahead of time
+#taken from a script made I over a month ago (likely typos), apologies ahead of time
 #You WILL NEED active directory modules installed on the computer the script is being run from
 
 $filepath = "" #Enter file path here
